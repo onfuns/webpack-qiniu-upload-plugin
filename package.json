@@ -1,0 +1,20 @@
+{
+  "name": "webpack-qiniu-upload-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin for qiniu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qiniu"
+  ],
+  "author": {
+    "name": "onfuns",
+    "url": "https://github.com/onfuns"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "qiniu": "^7.1.1"
+  }
+}

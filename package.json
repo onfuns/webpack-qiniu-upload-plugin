@@ -1,6 +1,6 @@
 {
   "name": "webpack-qiniu-upload-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "webpack plugin for qiniu",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,13 @@
   "keywords": [
     "qiniu"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onfuns/webpack-qiniu-upload-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onfuns/webpack-qiniu-upload-plugin/issues"
+  },
   "author": {
     "name": "onfuns",
     "url": "https://github.com/onfuns"
